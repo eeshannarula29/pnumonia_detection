@@ -4,7 +4,7 @@
 
 ## Pneumonia is an inflammatory condition of the lung affecting primarily the small air sacs known as alveoli. Typically symptoms include some combination of productive or dry cough, chest pain, fever, and trouble breathing. 
 
-![xray image](https://en.wikipedia.org/wiki/Pneumonia#/media/File:Chest_radiograph_in_influensa_and_H_influenzae,_posteroanterior,_annotated.jpg)
+![xray image](https://images.app.goo.gl/L2a76xBcKitfdqpP6)
 
 ## Pneumonia is usually caused by infection with viruses or bacteria and less commonly by other microorganisms, certain medications and conditions such as autoimmune diseases.
 
